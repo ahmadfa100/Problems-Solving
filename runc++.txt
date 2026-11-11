@@ -1,0 +1,1 @@
+g++ I_CAN_AND_IAM.cpp -o main && ./main < input.txtcd 
